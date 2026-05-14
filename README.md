@@ -10,6 +10,13 @@ This repo is the public companion to a multi-month build series. 40+ projects ac
 
 - **[`ROADMAP.md`](./ROADMAP.md)** — The list and the roadmap, in one. All projects with status checkboxes. ⬜ → 🟡 → ✅ as builds ship.
 - **`projects/`** — One folder per build. Populated as each project ships live.
+- **Reference docs & pretraining material** — Coming soon. The repo will be seeded with everything you need before the first live build.
+
+---
+
+## New to Claude Code?
+
+A training video covering install, terminal basics, and your first project is on the way. **You don't need to wait for it to start watching live builds — but if you've never opened a terminal, it'll get you ready.** Link will land here when it's up.
 
 ---
 
@@ -28,6 +35,19 @@ This repo is the public companion to a multi-month build series. 40+ projects ac
 🔴 **Advanced** — Multi-agent systems, autonomous loops, servers, production infra.
 
 See [`ROADMAP.md`](./ROADMAP.md) for the full list.
+
+---
+
+## Get notified when builds go live
+
+Subscribe to **[The New GTM Engineer](https://thenewgtmengineer.substack.com/about)** for a heads-up before every live stream. Drops straight in your inbox — no algorithm in the way.
+
+---
+
+## Connect
+
+- 💬 **Connect with me on LinkedIn** → [Tanay Mishra](https://www.linkedin.com/in/tanay-mishra-ai-automation/) — say hi, share what you're building, ask anything.
+- 🎓 **Want the structured version?** Check out **[Clay Bootcamp](https://www.claybootcamp.com/)** — the fastest way to go from zero to shipping GTM systems.
 
 ---
 
