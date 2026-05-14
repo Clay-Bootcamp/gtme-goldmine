@@ -16,7 +16,7 @@ Tiers reflect skill level needed to build, not value delivered.
 
 ## 🟢 Beginner
 
-1. ⬜ **Landing Page / Portfolio Website in Under an Hour** — Scrape your LinkedIn, generate a personal or business site, deploy free to Vercel/Netlify.
+1. ⬜ **Landing Page / Portfolio Website in Under an Hour** — Download your LinkedIn profile, generate a personal or business site, deploy free to Vercel/Netlify.
 2. ⬜ **CSV Cleanup & Enrichment** — Dedupe, normalize fields, basic enrichment on messy spreadsheets. Replaces hours of manual list cleaning.
 3. ⬜ **Lead Scoring from a CSV** — Slash command that scores a lead list against ICP criteria and outputs a prioritized file.
 4. ⬜ **Sales Email Personalizer** — Visit a prospect's site, extract signals, draft a personalized email, push to Instantly/Smartlead.
