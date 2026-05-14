@@ -65,5 +65,5 @@ Tiers reflect skill level needed to build, not value delivered.
 34. ⬜ **Build Your Own n8n / Trigger.dev Workflow Orchestration** — Either roll your own orchestrator or wire CC into n8n/Trigger.dev as the "brain" with retry, observability, self-healing.
 35. ⬜ **Webhook Receiver Server** — Server that listens for external webhooks and kicks off CC workflows.
 36. ⬜ **Customer Listening Engine → Product Roadmap** — Ingest support, calls, CRM notes; extract feature requests; auto-populate roadmap.
-37. ⬜ **Async Project Architect (Background Agents)** — Long-running agents that monitor repos, run competitive research, prep morning briefings while you sleep.
+37. ⬜ **Async Project Architect (Background Agents) Using Claude Managed Agents** — Long-running agents that monitor repos, run competitive research, prep morning briefings while you sleep.
 38. ⬜ **Agents SDK for Your Business** — Custom agents built on the Anthropic Agents SDK for internal company workflows.
