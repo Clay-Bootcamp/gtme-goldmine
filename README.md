@@ -11,7 +11,7 @@ This repo is the public companion to a multi-month build series. 40+ projects ac
 - **[`Foundations/`](./Foundations/)** — Start here. Install, smoke test, and the Golden Prompts Framework. Linear sequence — do them in order.
 - **[`Resources/`](./Resources/)** — Reference docs on CLAUDE.md, context management, skills, agents, MCPs/APIs/CLIs, security, and GitHub. Lookups, not a curriculum. The [TOC](./Resources/README.md) groups everything by topic.
 - **[`ROADMAP.md`](./ROADMAP.md)** — The list and the roadmap, in one. All projects with status checkboxes. ⬜ → 🟡 → ✅ as builds ship.
-- **`projects/`** — One folder per build. Populated as each project ships live.
+- **[`projects/`](./projects/)** — One folder per build. Each contains a `README.md` with the exact prompt to give Claude Code so you can build **your own version** — plus my reference implementation for show. Populated as each project ships live.
 
 ---
 
@@ -21,11 +21,18 @@ Start with **[Foundations](./Foundations/)** — install Claude Code, run a 2-mi
 
 ---
 
-## How to follow along
+## How to use this repo
+
+> **Don't copy the code.** Copying my output teaches you nothing. The point is the *method*, not the artifact.
+
+Every project folder has a `README.md` with a copy-pasteable prompt. Paste it into Claude Code, answer the 5 questions it asks you, approve the plan, and build *your* version — same project, your spec. The prompts run on the **Golden Prompts Framework**: **Think → Ask → Plan → Build**. ([Read the full framework →](./Foundations/03-Golden-Prompts-Framework.md))
+
+Here's the loop:
 
 - **Watch live** — every project starts as a live build. Code is messy. Decisions are made on camera. No edits.
-- **Read after** — when a build wraps, the folder under `projects/` gets the final code, prompts, a write-up, and the giveaway (templates, starter files, CLAUDE.md).
-- **Steal everything** — MIT-licensed. If a build helps you, take it.
+- **Read the project README** — when a build wraps, the folder under `projects/` gets the prompt, the framework reference, and my reference implementation.
+- **Run the prompt yourself** — open Claude Code in your own folder, paste the prompt, answer honestly. Claude grills you, plans, then builds *your* version. Ship something that's actually yours.
+- **MIT-licensed reference** — the code is in the open if you want to peek under the hood. But don't ship mine as yours — it won't fit your circumstances and you won't have learned the method.
 
 ---
 
