@@ -8,15 +8,16 @@ This repo is the public companion to a multi-month build series. 40+ projects ac
 
 ## What's here
 
+- **[`Foundations/`](./Foundations/)** — Start here. Install, smoke test, and the Golden Prompts Framework. Linear sequence — do them in order.
+- **[`Resources/`](./Resources/)** — Reference docs on CLAUDE.md, context management, skills, agents, MCPs/APIs/CLIs, security, and GitHub. Lookups, not a curriculum. The [TOC](./Resources/README.md) groups everything by topic.
 - **[`ROADMAP.md`](./ROADMAP.md)** — The list and the roadmap, in one. All projects with status checkboxes. ⬜ → 🟡 → ✅ as builds ship.
 - **`projects/`** — One folder per build. Populated as each project ships live.
-- **Reference docs & pretraining material** — Coming soon. The repo will be seeded with everything you need before the first live build.
 
 ---
 
 ## New to Claude Code?
 
-A training video covering install, terminal basics, and your first project is on the way. **You don't need to wait for it to start watching live builds — but if you've never opened a terminal, it'll get you ready.** Link will land here when it's up.
+Start with **[Foundations](./Foundations/)** — install Claude Code, run a 2-minute smoke test, and learn the Golden Prompts Framework. Roughly 30 minutes end-to-end. Once those land, you're ready to follow any build in the roadmap.
 
 ---
 
