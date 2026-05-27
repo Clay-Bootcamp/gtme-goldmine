@@ -1,5 +1,7 @@
 # Project #1 — Landing Page / Portfolio Website
 
+> **Full tutorial, uncut:** [YouTube livestream](https://www.youtube.com/watch?v=u2F_oum4rVw&t=1713s)
+
 > **Stop. Read this before you touch anything else in this folder.**
 
 ## Don't copy this project.
