@@ -61,7 +61,7 @@ Type "hello" and press Enter. If Claude responds, you're all set.
 **"permission denied"**
 
 - Mac/Linux: Run with sudo:
-`sudo curl -fsSL [https://claude.ai/install.sh](https://claude.ai/install.sh) | bash`
+`sudo curl -fsSL https://claude.ai/install.sh | bash`
 
 **Windows: "script is blocked" or "execution policy" error**
 

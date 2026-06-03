@@ -19,11 +19,11 @@ Two reasons:
 1. **Cost.** Opus is roughly 5x the price of Sonnet. Run Opus by default and you'll burn your usage limit on a single prospect research batch. Run Haiku by default and your planning and code will get sloppy.
 2. **Security.** Smaller models are measurably more vulnerable to prompt injection. When your agent is reading scraped websites, inbound emails, or leads from a sketchy list, a weaker model is more likely to follow a malicious instruction hidden in that content. GTMEs feed Claude third-party data constantly. This matters.
 
-## The current lineup (April 2026)
+## The current lineup (June 2026)
 
 | Tier | Current | Where it shines | Where it fails |
 | --- | --- | --- | --- |
-| **Opus** | Opus 4.7 | Planning, architecture, hard debugging, code writing for anything non-trivial | Simple or high-volume tasks — you're paying for reasoning you don't need |
+| **Opus** | Opus 4.8 | Planning, architecture, hard debugging, code writing for anything non-trivial | Simple or high-volume tasks — you're paying for reasoning you don't need |
 | **Sonnet** | Sonnet 4.6 | Default for almost everything. Coding, writing, analysis, most agentic loops | Hard architecture decisions that really need to be right |
 | **Haiku** | Haiku 4.5 | Mechanical high-volume work: renaming, formatting, extracting fields, simple summaries, cheap subagent execution | Real code writing, security-sensitive tasks, anything touching untrusted input |
 

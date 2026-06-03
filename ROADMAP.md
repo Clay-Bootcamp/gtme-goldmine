@@ -10,7 +10,7 @@ Tiers reflect skill level needed to build, not value delivered.
 - 🟡 **Intermediate** — APIs, MCPs, scheduled jobs, multi-step workflows.
 - 🔴 **Advanced** — multi-agent systems, autonomous loops, servers, production infra.
 
-> **New to Claude Code?** A training video on installation, terminal basics, and your first project is on the way. Watch the [README](./README.md) for the link.
+> **New to Claude Code?** Start with [Foundations](./Foundations/) — install, terminal basics, your first project, and the prompting framework, with video walkthroughs.
 
 ---
 
@@ -61,7 +61,7 @@ Tiers reflect skill level needed to build, not value delivered.
 
 ## 🔴 Advanced
 
-33. ⬜ **Cold Email Machine** — Multi-agent pipeline: research → qualify → write → send. Give CC an ICP doc, get back validated leads with verified contacts. *Check with Kushagra first — he may already be building this.*
+33. ⬜ **Cold Email Machine** — Multi-agent pipeline: research → qualify → write → send. Give CC an ICP doc, get back validated leads with verified contacts.
 34. ⬜ **Build Your Own n8n / Trigger.dev Workflow Orchestration** — Either roll your own orchestrator or wire CC into n8n/Trigger.dev as the "brain" with retry, observability, self-healing.
 35. ⬜ **Webhook Receiver Server** — Server that listens for external webhooks and kicks off CC workflows.
 36. ⬜ **Customer Listening Engine → Product Roadmap** — Ingest support, calls, CRM notes; extract feature requests; auto-populate roadmap.

@@ -2,7 +2,7 @@
 
 **Every GTM engineering project worth building, built live, in public, with Claude Code.**
 
-This repo is the public companion to a multi-month build series. 40+ projects across three tiers — from "ship a landing page" to "autonomous multi-agent outbound." Each one gets built live on stream. Code, prompts, notes, and giveaways land here as soon as the stream wraps.
+This repo is the public companion to a multi-month build series. 38 projects across three tiers — from "ship a landing page" to "autonomous multi-agent outbound." Each one gets built live on stream. Code, prompts, notes, and giveaways land here as soon as the stream wraps.
 
 ---
 
@@ -61,4 +61,4 @@ Subscribe to **[The New GTM Engineer](https://thenewgtmengineer.substack.com/abo
 
 ## Status
 
-🟡 Just kicked off. First build coming soon — see [`ROADMAP.md`](./ROADMAP.md).
+🟢 Live and shipping. Two builds are up — a landing-page generator and a CSV cleanup-and-enrichment pipeline. See [`ROADMAP.md`](./ROADMAP.md) for what's shipped and what's next.

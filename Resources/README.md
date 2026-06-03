@@ -40,11 +40,9 @@ Each doc is short on purpose. Skim what's relevant. Come back when you hit the p
 ## Practical Use Cases
 
 - **[Browser Navigation Use Cases for GTM](./browser-navigation-for-gtm.md)** — Multi-page research, CRM busywork, SaaS automation — what Claygent and scrapers can't touch.
-- **[Systems Design GTM Agent](./systems-design-gtm-agent.md)** — Download a ready-made agent for systems design conversations.
 
 ## GitHub & Deployment
 
 - **[Introduction to GitHub](./github/01-introduction.md)** — The Dropbox-for-code mental model and repo anatomy.
 - **[Link GitHub to Claude Code](./github/02-link-github-to-claude-code.md)** — One prompt to wire up your terminal to GitHub.
 - **[Commit & Restore](./github/03-commit-and-restore.md)** — The only two Git commands you need to know.
-- **[Connect GitHub and Vercel](./github/connect-github-and-vercel.md)** — Auto-deploy your website every time you push.

@@ -10,7 +10,7 @@ Have one of these ready:
 
 **Mac:**
 
-- [Wispr Flow](https://wisprflow.ai/) [](https://wispr.flow/)(paid, excellent)
+- [Wispr Flow](https://wisprflow.ai/) (paid, excellent)
 - [Monologue](https://www.monologue.to/) (free tier available)
 - Built-in: System Settings → Keyboard → Dictation → On
 
@@ -25,7 +25,7 @@ Have one of these ready:
 ### Mac Options
 
 - **Option 1: Wispr Flow** (paid and excellent, recommended)
-    1. Go to [https://wispr.flow](https://wispr.flow/)
+    1. Go to [https://wisprflow.ai](https://wisprflow.ai/)
     2. Download and install
     3. Follow their setup guide
 - **Option 2: Monologue (g**ood free option)
