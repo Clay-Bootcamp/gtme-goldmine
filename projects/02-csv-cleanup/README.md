@@ -1,5 +1,7 @@
 # Project #2 — CSV Cleanup & Enrichment (messy export → CRM-ready)
 
+> **Full tutorial, uncut:** [YouTube livestream](https://youtube.com/live/hGc3fYiSpVA)
+
 > **Stop. Read this before you touch anything else in this folder.**
 
 ## Don't copy this project.
