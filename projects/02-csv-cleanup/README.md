@@ -12,6 +12,18 @@ The point of GTM Goldmine is not the code. **The point is the method.** Point Cl
 
 ---
 
+## The CLEAN framework
+
+Every step in `clean.py` follows **CLEAN** — a five-stage, iterative approach to data cleaning. Understand the data before you touch it, fix what's fixable, make a call on what isn't, enrich, and document every change.
+
+<p align="center">
+  <img src="./clean-framework.svg" alt="The CLEAN data cleaning framework: Conceptualize → Locate solvable issues → Evaluate unsolvable issues → Augment & improve → Note & document, as an iterative loop" width="440">
+</p>
+
+> **Framework credit:** [Christine Jiang](https://www.youtube.com/watch?v=iYEw8L3Un4c). The CLEAN methodology this build runs on comes from her walkthrough — worth watching before you clean anything of your own.
+
+---
+
 ## Build your own version.
 
 **Time:** ~45–60 minutes.

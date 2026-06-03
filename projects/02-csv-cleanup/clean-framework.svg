@@ -1,0 +1,43 @@
+<svg width="680" height="500" viewBox="0 0 680 500" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>The CLEAN data cleaning framework</title>
+<desc>A five-step sequential framework: Conceptualize, Locate solvable issues, Evaluate unsolvable issues, Augment and improve, Note and document. The process is iterative.</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+
+<g style="font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif">
+<rect x="170" y="30" width="340" height="56" rx="8" style="fill:rgb(225, 245, 238);stroke:rgb(15, 110, 86);stroke-width:0.5px"/>
+<text x="340" y="50" text-anchor="middle" dominant-baseline="central" style="fill:rgb(8, 80, 65);font-size:14px;font-weight:500">C — Conceptualize</text>
+<text x="340" y="68" text-anchor="middle" dominant-baseline="central" style="fill:rgb(15, 110, 86);font-size:12px;font-weight:400">Understand the data before touching it</text>
+</g>
+<line x1="340" y1="86" x2="340" y2="116" marker-end="url(#arrow)" style="fill:none;stroke:rgb(115, 114, 108);stroke-width:1.5px"/>
+
+<g style="font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif">
+<rect x="170" y="116" width="340" height="56" rx="8" style="fill:rgb(225, 245, 238);stroke:rgb(15, 110, 86);stroke-width:0.5px"/>
+<text x="340" y="136" text-anchor="middle" dominant-baseline="central" style="fill:rgb(8, 80, 65);font-size:14px;font-weight:500">L — Locate solvable issues</text>
+<text x="340" y="154" text-anchor="middle" dominant-baseline="central" style="fill:rgb(15, 110, 86);font-size:12px;font-weight:400">Formatting, consistency, duplicates</text>
+</g>
+<line x1="340" y1="172" x2="340" y2="202" marker-end="url(#arrow)" style="fill:none;stroke:rgb(115, 114, 108);stroke-width:1.5px"/>
+
+<g style="font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif">
+<rect x="170" y="202" width="340" height="56" rx="8" style="fill:rgb(225, 245, 238);stroke:rgb(15, 110, 86);stroke-width:0.5px"/>
+<text x="340" y="222" text-anchor="middle" dominant-baseline="central" style="fill:rgb(8, 80, 65);font-size:14px;font-weight:500">E — Evaluate unsolvable issues</text>
+<text x="340" y="240" text-anchor="middle" dominant-baseline="central" style="fill:rgb(15, 110, 86);font-size:12px;font-weight:400">Missing &amp; nonsensical data</text>
+</g>
+<line x1="340" y1="258" x2="340" y2="288" marker-end="url(#arrow)" style="fill:none;stroke:rgb(115, 114, 108);stroke-width:1.5px"/>
+
+<g style="font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif">
+<rect x="170" y="288" width="340" height="56" rx="8" style="fill:rgb(225, 245, 238);stroke:rgb(15, 110, 86);stroke-width:0.5px"/>
+<text x="340" y="308" text-anchor="middle" dominant-baseline="central" style="fill:rgb(8, 80, 65);font-size:14px;font-weight:500">A — Augment &amp; improve</text>
+<text x="340" y="326" text-anchor="middle" dominant-baseline="central" style="fill:rgb(15, 110, 86);font-size:12px;font-weight:400">Add calculations &amp; outside sources</text>
+</g>
+<line x1="340" y1="344" x2="340" y2="374" marker-end="url(#arrow)" style="fill:none;stroke:rgb(115, 114, 108);stroke-width:1.5px"/>
+
+<g style="font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif">
+<rect x="170" y="374" width="340" height="56" rx="8" style="fill:rgb(225, 245, 238);stroke:rgb(15, 110, 86);stroke-width:0.5px"/>
+<text x="340" y="394" text-anchor="middle" dominant-baseline="central" style="fill:rgb(8, 80, 65);font-size:14px;font-weight:500">N — Note &amp; document</text>
+<text x="340" y="412" text-anchor="middle" dominant-baseline="central" style="fill:rgb(15, 110, 86);font-size:12px;font-weight:400">A change log of every step</text>
+</g>
+
+<text x="340" y="462" text-anchor="middle" style="fill:rgb(61, 61, 58);font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400">↻ Iterative — circle back as new issues surface during analysis</text>
+</svg>
