@@ -1,0 +1,44 @@
+WINNING EMAIL TEMPLATE — "your support line after hours"
+=========================================================
+This is the well-performing template the whole project scales. It's an
+AI-voice-agent pitch (Tanay → e-commerce shops) built around ONE specific,
+verifiable gap: the store's phone support is voicemail-only / weekday-only,
+so after-hours buyer questions go unanswered.
+
+The skeleton below stays fixed. Only the bracketed parts flex per store, and
+ONLY when the site actually states them. If the gap can't be verified on the
+live site, the store is skipped — never invent the gap.
+
+  FIXED   — the offer, the structure, the sign-off, the CTA
+  FLEX    — [phone], [the specific hours/days gap], cited from the store's site
+
+
+----------------------------------- TEMPLATE -----------------------------------
+
+To:      [store support email — found on the live site]
+Subject: your support line after hours
+
+Hey team,
+
+I saw your support line, [PHONE], is [THE VERIFIED GAP — e.g. "voicemail-only
+and your team's available Monday through Friday"] - so a weekend message
+doesn't get answered until the following [Monday or Tuesday]. For an e-commerce
+store that's often exactly when buyers have "where's my order?" questions and
+are deciding whether to trust you with a purchase.
+
+I specialize in setting up AI voice agents that answer the phone 24/7 and
+handle those questions - order status, returns, your common FAQs - fully
+trained on your brand voice and your own docs.
+
+Worth a quick call to see if it'd be a fit?
+
+Thanks,
+Tanay
+
+
+------------------------------ EXAMPLE (P.F. Candle Co.) ------------------------
+The template above IS the P.F. Candle Co. email — it was a verbatim match
+because their contact page literally says the line is voicemail-only, Mon–Fri,
+with weekend messages answered the following Mon/Tue. For the other stores the
+offer stayed identical and only the gap hook changed to what each site
+actually states (e.g. "only staffed Monday–Friday, 8:30am–4pm").
