@@ -1,0 +1,55 @@
+url,email_address,generated_email,justification
+https://pfcandleco.com,hello@pfcandleco.com,"Subject: your support line after hours
+
+Hey team,
+
+I saw your support line, 213-566-3005, is voicemail-only and your team's available Monday through Friday - so a weekend message doesn't get answered until the following Monday or Tuesday. For an e-commerce store that's often exactly when buyers have ""where's my order?"" questions and are deciding whether to trust you with a purchase.
+
+I specialize in setting up AI voice agents that answer the phone 24/7 and handle those questions - order status, returns, your common FAQs - fully trained on your brand voice and your own docs.
+
+Worth a quick call to see if it'd be a fit?
+
+Thanks,
+Tanay","VERIFIED & GENERATED. Contact page (https://pfcandleco.com/pages/contact) states under Phone: ""if you would like to leave a voicemail, please call 213-566-3005 ... we'll get back to you via email within 1 business day. At this time we don't offer live phone support"" (confirms voicemail-only). Same page: team ""available Monday through Friday only"" and ""Weekend messages will receive a response the following Monday or Tuesday."" Support email hello@pfcandleco.com listed on contact + FAQ pages. Phone, days, and next-business-day logic all match the site."
+https://northbaycandleworks.com,hello@northbaycandleworks.com,,"SKIPPED - gap not verifiable. Crawled homepage, /pages/contact, /pages/find-us, /pages/about-us (FAQ/shipping/refund URLs 404'd). Found email hello@northbaycandleworks.com (homepage, for wholesale) and phone (615) 540-9331 (Find Us page, flagship at 757 Lincoln Ave, San Rafael). But NO support hours, days, or voicemail-only statement anywhere. A phone exists but no stated hours and no evidence it's voicemail-only, so the after-hours gap cannot be confirmed; email left blank to avoid fabricating a gap."
+https://oftenwander.com,hello@oftenwander.com,,"SKIPPED - no phone. Email-only support. FAQ (https://oftenwander.com/pages/faqs) directs customers to ""reach out to us at hello@oftenwander.com"" with no phone line; Shipping+Returns (https://oftenwander.com/pages/shipping-returns) also instructs to email. No phone number and no support hours listed anywhere, so the voicemail/after-hours angle cannot apply. Email left blank."
+https://backyardcandles.com,,,"SKIPPED - store offline. Live storefront returns Shopify's deactivated-store page (""This store is unavailable"") on / and every probed path (/pages/contact, /pages/faq, /policies/refund-policy, /sitemap.xml, www. variant). A web search surfaced historical third-party data (phone +1 619-707-6882; sales@/justin@backyardcandles.com via ZoomInfo) but none could be verified on the live site, and no support hours exist. Nothing verifiable, so no email generated."
+https://www.tobyscandles.com,,,"SKIPPED - no after-hours gap. Contact page (https://www.tobyscandles.com/contact) lists phone 619-297-5426 and hours that run seven days a week (Mon-Sun 10:00-7:00). No support email found, and NO statement that the phone is voicemail-only or limited to certain days - it appears to be a physical shop line open all 7 days. The specific voicemail/limited-days gap the template asserts cannot be verified, so email left blank."
+https://www.honeypacifica.com,honeypacifica@hotmail.com,"Subject: your support line after hours
+
+Hey team,
+
+I saw your support line, (562) 803-4300, is only staffed Monday-Friday, 8:30am-4pm, and your team notes they prefer email - so a weekend message doesn't get answered until the following Monday. For an e-commerce store that's often exactly when buyers have ""where's my order?"" questions and are deciding whether to trust you with a purchase.
+
+I specialize in setting up AI voice agents that answer the phone 24/7 and handle those questions - order status, returns, your common FAQs - fully trained on your brand voice and your own docs.
+
+Worth a quick call to see if it'd be a fit?
+
+Thanks,
+Tanay","VERIFIED & GENERATED (wording adjusted). Contact page (https://www.honeypacifica.com/pages/contact-us) lists phone ""(562) 803-4300"", email ""honeypacifica@hotmail.com"", hours ""Monday to Friday: 8:30am - 4pm"" (no weekends), and explicitly discourages calls: ""while we appreciate talking to you we really prefer email ... time to work with the bees uninterrupted."" After-hours/weekend gap is real (weekday daytime only + calls discouraged). NOTE: site never says ""voicemail-only,"" so the original draft's voicemail-only claim was corrected to the verifiable ""only staffed Monday-Friday, 8:30am-4pm."""
+https://knorrcandles.com,info@knorrbeeswax.com,"Subject: your support line after hours
+
+Hey team,
+
+I saw your support line, 760-431-2007, is staffed Monday-Friday 9:30am to 5:00pm - so a weekend or late-night message doesn't get answered until the following business day. For an e-commerce store that's often exactly when buyers have ""where's my order?"" questions and are deciding whether to trust you with a purchase.
+
+I specialize in setting up AI voice agents that answer the phone 24/7 and handle those questions - order status, returns, your common FAQs - fully trained on your brand voice and your own docs.
+
+Worth a quick call to see if it'd be a fit?
+
+Thanks,
+Tanay","VERIFIED & GENERATED. Contact page (https://knorrcandles.com/pages/contact-us) lists ""Phone: 760-431-2007"" (Manufacturing Facility) ""Open: Monday-Friday from 9:30am to 5:00pm"", a retail line 858-755-2051 (7 days, 11am-5pm), and email ""info@knorrbeeswax.com"". Shipping/returns page: they ""only ship during business days, no weekends and holidays."" Real phone + limited business hours + no 24/7 = verifiable after-hours gap. Site doesn't say voicemail-only, so the email is framed around documented Mon-Fri hours rather than claiming voicemail-only."
+https://busybeescandleco.com,hello@busybeescandleco.com,,"SKIPPED - no phone. Crawled homepage, /contact, /faqs, and shop.busybeescandleco.com subdomain. Only support contact is email hello@busybeescandleco.com (contact + FAQ pages: ""email us so we can help!""). No phone number and no support hours published anywhere. The angle requires a phone with limited/voicemail coverage, so the gap cannot be verified; email left blank."
+https://www.beeswaxcandlestudio.com,Kelcla99@aol.com,"Subject: your support line after hours
+
+Hey team,
+
+I saw your support line, 831-262-9014, is only staffed during your shop hours (Wed-Sun, closed Mon & Tues) - so a call on a Monday or after closing doesn't get answered until you're back open. For an e-commerce store that's often exactly when buyers have ""where's my order?"" questions and are deciding whether to trust you with a purchase.
+
+I specialize in setting up AI voice agents that answer the phone 24/7 and handle those questions - order status, returns, your common FAQs - fully trained on your brand voice and your own docs.
+
+Worth a quick call to see if it'd be a fit?
+
+Thanks,
+Tanay","VERIFIED & GENERATED (wording adjusted). Homepage (https://www.beeswaxcandlestudio.com) lists phone ""831-262-9014"", email ""Kelcla99@aol.com"", and limited hours ""WEDNESDAY & THURSDAY 2:00PM-6PM / FRIDAY & SATURDAY 10AM-6:00PM / SUNDAY 10AM-3:00PM"" (closed Mon & Tue; physical shop at 748 San Benito St, Hollister, CA). Real phone + clearly limited days/hours + no 24/7 claim = verifiable gap. Site doesn't say voicemail-only, so wording references limited staffed hours / closed days rather than claiming voicemail-only."
+https://toadilyhandmadebeeswaxcandles.com,info@toadilyhandmade.com,,"SKIPPED - gap not verifiable. Contact page (https://toadilyhandmadebeeswaxcandles.com/contact-us/) lists phone ""(949) 872-3941"", email ""info@toadilyhandmade.com"", and ""Our hours often vary, please call or email for an appointment."" A phone exists, but the site never states voicemail-only and advertises no fixed days/hours - it's appointment-based with varying hours, so the specific weekday/weekend next-business-day gap the template asserts cannot be truthfully claimed. Per skip-and-flag, email left blank."
