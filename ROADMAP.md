@@ -18,7 +18,7 @@ Tiers reflect skill level needed to build, not value delivered.
 
 1. ✅ **Landing Page / Portfolio Website in Under an Hour** — Download your LinkedIn profile, generate a personal or business site, deploy free to Vercel/Netlify. → [`projects/01-landing-page/`](./projects/01-landing-page/) · [live](https://genuine-rugelach-843966.netlify.app/)
 2. ✅ **CSV Cleanup & Enrichment** — Dedupe, normalize fields, basic enrichment on messy spreadsheets. Replaces hours of manual list cleaning. → [`projects/02-csv-cleanup/`](./projects/02-csv-cleanup/)
-3. ⬜ **Lead Scoring from a CSV** — Slash command that scores a lead list against ICP criteria and outputs a prioritized file.
+3. ✅ **Lead Scoring from a CSV** — Deterministic, CSV-only scorer that ranks a lead list against a written ICP rubric and appends score + fit label + justification. → [`projects/03-lead-scoring/`](./projects/03-lead-scoring/) · [livestream](https://www.youtube.com/watch?v=HdG5IxNUUc4)
 4. ⬜ **Sales Email Personalizer** — Visit a prospect's site, extract signals, draft a personalized email, push to Instantly/Smartlead.
 5. ⬜ **LinkedIn Content System: Inspiration + Drafting** — Pull top-performing posts in a niche, extract hooks/formats, draft new posts in your voice using `CLAUDE.md`.
 6. ⬜ **Transcript Mining (3 Flavors)** — Drop transcripts (sales calls, support tickets, webinars) into a Claude Project and mine them. Same build, three outcomes:

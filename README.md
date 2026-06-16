@@ -61,4 +61,4 @@ Subscribe to **[The New GTM Engineer](https://thenewgtmengineer.substack.com/abo
 
 ## Status
 
-🟢 Live and shipping. Two builds are up — a landing-page generator and a CSV cleanup-and-enrichment pipeline. See [`ROADMAP.md`](./ROADMAP.md) for what's shipped and what's next.
+🟢 Live and shipping. Three builds are up — a landing-page generator, a CSV cleanup-and-enrichment pipeline, and a CSV lead scorer. See [`ROADMAP.md`](./ROADMAP.md) for what's shipped and what's next.
