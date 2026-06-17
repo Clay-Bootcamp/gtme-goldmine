@@ -53,7 +53,7 @@ This is a self-guided course built for go-to-market engineers, operators, and fo
 
 | # | Lesson | |
 |---|--------|---|
-| 7 | [The Golden Prompts Framework](./07-golden-prompts-framework.md) | |
+| 7 | [The Golden Prompts Framework](./07-golden-prompts-framework.md) |🎥|
 
 ### Module 4 — Project Setup & Memory
 *How Claude remembers your project, organizes multi-folder work, and stays sharp over long sessions.* ⏱ ~30 min
