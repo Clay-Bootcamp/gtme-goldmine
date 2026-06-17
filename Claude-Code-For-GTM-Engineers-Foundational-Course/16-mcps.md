@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 6 — Connecting to External Systems  ·  Lesson 16 of 27
+
+---
+
 # MCPs (Model Context Protocol)
 
 ## What it is
@@ -91,3 +95,9 @@ Don't plug in all of them. Plug in the tools you actually copy-paste from.
 ## Rule of thumb
 
 **Tell Claude what you want to plug in — in plain English. Let Claude handle the technical stuff. Only connect MCPs for tools you actually use every week.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Hooks](./15-hooks.md) | [All Lessons](./README.md) | [APIs](./17-apis.md) |

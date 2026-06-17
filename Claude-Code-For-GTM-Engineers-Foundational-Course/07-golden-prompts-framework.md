@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 3 — The Golden Prompts Framework  ·  Lesson 7 of 27
+
+---
+
 # The Golden Prompts Framework
 
 The 4-step framework for getting Claude Code to build what you actually want — not what it assumes you want.
@@ -90,3 +94,9 @@ Exit Plan Mode (`Shift+Tab` once more) and approve. Now Claude executes against 
 | 4. Build | Exit Plan Mode (`Shift+Tab`) → approve |
 
 **The rule:** Think → Ask → Plan → Build. In that order. Every time.
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Your First Claude Code Project](./06-your-first-project.md) | [All Lessons](./README.md) | [CLAUDE.md Files](./08-claude-md-files.md) |

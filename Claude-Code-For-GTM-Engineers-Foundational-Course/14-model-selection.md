@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 5 — Workflow Building Blocks  ·  Lesson 14 of 27
+
+---
+
 # Model Selection
 
 > ⚠️ **This doc will age fast.** Anthropic ships new Claude models every few months, and the aliases (`opus`, `sonnet`, `haiku`) auto-point to the latest version. Specific model numbers below are accurate as of April 2026. The *logic* — when to use each tier — is what lasts.
@@ -43,7 +47,7 @@ Natural language first:
 - `/model` opens a picker. `/model sonnet` / `/model opus` / `/model haiku` jumps directly.
 - `/status` shows what you're currently on.
 - On startup: `claude --model opus`
-- Per-subagent: set it when creating via `/agents` (see `agents-and-subagents.md`)
+- Per-subagent: set it when creating via `/agents` (see [Agents & Subagents](./13-agents-and-subagents.md))
 
 ## The security angle (important)
 
@@ -57,7 +61,7 @@ Cheaper models are easier to jailbreak. Confirmed by research and red-team testi
 
 ## GTM example — prospect research batch
 
-Running the subagent pattern from `agents-and-subagents.md` — 20 subagents enriching 20 accounts:
+Running the subagent pattern from [Agents & Subagents](./13-agents-and-subagents.md) — 20 subagents enriching 20 accounts:
 
 - **Main agent (orchestrator):** Opus. Decides what to delegate, synthesizes the final report.
 - **Each research subagent:** Sonnet. Enough judgment to not get injected by a weird company website. Doesn't need Opus reasoning.
@@ -86,3 +90,9 @@ Three tiers doing their jobs. Rough cost vs. all-Opus: cut in half with no quali
 ## Rule of thumb
 
 **Sonnet by default. Opus when decisions matter — planning, architecture, code you'll actually ship. Haiku only for mechanical work on trusted input. Anything touching third-party content stays on Sonnet or Opus. Cheap models get jailbroken.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Agents & Subagents](./13-agents-and-subagents.md) | [All Lessons](./README.md) | [Hooks](./15-hooks.md) |

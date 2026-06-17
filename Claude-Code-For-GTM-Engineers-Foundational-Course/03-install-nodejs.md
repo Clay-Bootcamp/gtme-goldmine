@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 2 — Setup & Installation  ·  Lesson 3 of 27
+
+---
+
 # Install Node.js
 
 ## Why You Need This
@@ -38,3 +42,9 @@ Open Terminal (Mac) or PowerShell (Windows) and run:
 **Mac: "installer can't be opened"**
 
 - Right-click the installer → Open → Click "Open" in the dialog
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Claude Code's Capabilities](./02-claude-code-capabilities.md) | [All Lessons](./README.md) | [Install Claude Code](./04-install-claude-code.md) |

@@ -1,8 +1,15 @@
+**[🏠 Course Home](./README.md)**  ·  Module 7 — Security & Permissions  ·  Lesson 21 of 27
+
+---
+
 # Primer: Claude Code Security & Data Privacy
 
-[https://supercut.ai/share/claude-code-gtm/o1afZrlDihKWrtU-nPx8Sf](https://supercut.ai/share/claude-code-gtm/o1afZrlDihKWrtU-nPx8Sf)
-
-**Link to presentation:** [https://docs.google.com/presentation/d/1Xzzfqt9OnAkNSaW43CVoFDfu3XpPNcMaXau-kra9I5I/edit?usp=sharing](https://docs.google.com/presentation/d/1Xzzfqt9OnAkNSaW43CVoFDfu3XpPNcMaXau-kra9I5I/edit?usp=sharing)
+> ## 📺 Video Lesson
+> **▶️ [Watch the Supercut walkthrough](https://supercut.ai/share/claude-code-gtm/o1afZrlDihKWrtU-nPx8Sf)**
+>
+> This lesson has a video. Watch it first, then use the cheat sheet below as your reference.
+>
+> 📑 **Slides:** [Security & Data Privacy presentation](https://docs.google.com/presentation/d/1Xzzfqt9OnAkNSaW43CVoFDfu3XpPNcMaXau-kra9I5I/edit?usp=sharing)
 
 # Claude Code Security & Data Privacy — Quick Reference
 
@@ -65,3 +72,9 @@ Use modern models for any agent touching untrusted input.
 - Claude Code Security docs (permissions, sandboxing, safeguards): [https://code.claude.com/docs/en/security](https://code.claude.com/docs/en/security)
 - Anthropic's blog post on the Consumer Terms / Privacy Policy update (the training toggle, 5-year retention, what's covered): [https://www.anthropic.com/news/updates-to-our-consumer-terms](https://www.anthropic.com/news/updates-to-our-consumer-terms)
 - For Enterprise: Trust Center has compliance artifacts like SOC 2 and ISO 27001: [https://trust.anthropic.com/](https://trust.anthropic.com/)
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Tools & Permissions](./20-tools-and-permissions.md) | [All Lessons](./README.md) | [Browser Navigation for GTM](./22-browser-navigation-for-gtm.md) |

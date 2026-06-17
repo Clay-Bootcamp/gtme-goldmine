@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 6 — Connecting to External Systems  ·  Lesson 19 of 27
+
+---
+
 # MCP vs API vs CLI
 
 ## What it is
@@ -68,3 +72,9 @@ One pipeline. Three mechanisms. Each picked because it's the cheapest path at th
 ## Rule of thumb
 
 **MCP first. CLI second. API last. Stop climbing the ladder the moment your use case is covered.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [CLIs (Command-Line Interfaces)](./18-clis.md) | [All Lessons](./README.md) | [Tools & Permissions](./20-tools-and-permissions.md) |

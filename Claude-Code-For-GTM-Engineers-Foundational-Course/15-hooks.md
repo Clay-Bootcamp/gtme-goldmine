@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 5 — Workflow Building Blocks  ·  Lesson 15 of 27
+
+---
+
 # Hooks
 
 ## What it is (plain English)
@@ -41,7 +45,7 @@ Or just ask Claude: *"Add a PreToolUse hook that blocks edits to any `.env` file
 
 1. **Protect sensitive files.** PreToolUse on `Edit|Write` that blocks writes to `.env`, `.git/`, and production configs. Even in acceptEdits mode, this is a hard firewall.
 2. **Auto-backup before edits.** PostToolUse on `Edit|Write` that copies the original file to a `.backups/` folder before changes. Saves you when Claude overwrites something important.
-3. **Notify on completion.** Stop hook that fires a desktop notification or Slack ping when Claude finishes. Useful for long agentic jobs — like the 20-subagent batches from `agents-and-subagents.md`.
+3. **Notify on completion.** Stop hook that fires a desktop notification or Slack ping when Claude finishes. Useful for long agentic jobs — like the 20-subagent batches from [Agents & Subagents](./13-agents-and-subagents.md).
 
 ## Common pitfalls
 
@@ -64,3 +68,9 @@ Or just ask Claude: *"Add a PreToolUse hook that blocks edits to any `.env` file
 ## Rule of thumb
 
 **Hooks are guarantees. Prompts are suggestions. If something absolutely must happen every time — protecting a file, backing up data, firing a notification — use a hook. For anything softer or one-off, just prompt Claude. Start with 2-3 hooks, not twenty.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Model Selection](./14-model-selection.md) | [All Lessons](./README.md) | [MCPs (Model Context Protocol)](./16-mcps.md) |

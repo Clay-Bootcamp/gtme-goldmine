@@ -1,6 +1,13 @@
+**[🏠 Course Home](./README.md)**  ·  Module 4 — Project Setup & Memory  ·  Lesson 10 of 27
+
+---
+
 # Context Management & Context Rot
 
-[https://supercut.ai/share/claude-code-gtm/bc9x2LCrX8HDBWbmCmsPcD](https://supercut.ai/share/claude-code-gtm/bc9x2LCrX8HDBWbmCmsPcD)
+> ## 📺 Video Lesson
+> **▶️ [Watch the Supercut walkthrough](https://supercut.ai/share/claude-code-gtm/bc9x2LCrX8HDBWbmCmsPcD)**
+>
+> This lesson has a video. Watch it first, then use the notes below as your reference.
 
 # Context Management
 
@@ -129,3 +136,9 @@ The key detail: the red zone is **tied to absolute tokens (150K)**, not a percen
 | `/btw [question]` | Side question — doesn't enter history |
 
 **Rule of thumb:** Watch tokens, not percentages. Stop at 150K. Write to CLAUDE.md. Clear. Keep going.
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Project Hierarchies & CLAUDE.md](./09-project-hierarchies.md) | [All Lessons](./README.md) | [Skills & Slash Commands](./11-skills-and-slash-commands.md) |

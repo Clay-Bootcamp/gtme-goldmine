@@ -1,8 +1,12 @@
+**[🏠 Course Home](./README.md)**  ·  Module 2 — Setup & Installation  ·  Lesson 5 of 27
+
+---
+
 # Set up Speech-to-Text
 
 ## Why You Need This
 
-You'll be *talking* to Claude Code, not typing. Speaking is 3-4x faster than typing and feels more like a natural conversation. This is how we'll work during the bootcamp.
+You'll be *talking* to Claude Code, not typing. Speaking is 3-4x faster than typing and feels more like a natural conversation. This is how we'll work during the course.
 
 You need a way to turn your voice into text in any app.
 
@@ -72,3 +76,9 @@ permission
 
 - Make sure you're on Windows 10 or 11
 - Go to Settings → Time & Language → Speech → Turn on voice typing
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Install Claude Code](./04-install-claude-code.md) | [All Lessons](./README.md) | [Your First Claude Code Project](./06-your-first-project.md) |

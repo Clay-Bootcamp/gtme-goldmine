@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 5 — Workflow Building Blocks  ·  Lesson 11 of 27
+
+---
+
 # Skills and Slash Commands
 
 Skills are superpowers or reusable workflows you can load into Claude Code & invoke by typing `/` to save yourself time.
@@ -146,3 +150,9 @@ Brainstorm starters you can actually build:
 | See all available commands | Type `/` in Claude Code |
 
 **Rule of thumb:** CLAUDE.md = always true. Skills = sometimes true. Built-in commands = Claude Code itself.
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Context Management & Context Rot](./10-context-management.md) | [All Lessons](./README.md) | [Recommended Skills](./12-recommended-skills.md) |

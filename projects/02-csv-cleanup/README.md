@@ -28,7 +28,7 @@ Every step in `clean.py` follows **CLEAN** — a five-stage, iterative approach 
 
 **Time:** ~45–60 minutes.
 **Prereqs:**
-- Claude Code installed → see [`Foundations/01-Setup`](../../Foundations/01-Setup/)
+- Claude Code installed → see [Foundational Course — Install Claude Code](../../Claude-Code-For-GTM-Engineers-Foundational-Course/04-install-claude-code.md)
 - A real, messy CSV you actually need cleaned (a lead list, a CRM export, a visitor de-anon dump — whatever's been sitting in your downloads folder)
 - A clear idea of where it's going next (HubSpot? Salesforce? Clay? a cold email tool?) — the destination dictates the rules
 - Python 3 with `pandas` (Claude will set this up if you don't have it)
@@ -100,7 +100,7 @@ Exit plan mode, approve, watch it run. Then **read the audit log** — it tells 
 
 ## Why this works
 
-This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. The twist for data work is that the "Think" step is **analysis first** — Claude reads your actual file and surfaces the real problems before anyone decides on rules. It's how you get a cleaner built for your data, not a generic script that mangles it. Full breakdown: [`Foundations/03-Golden-Prompts-Framework.md`](../../Foundations/03-Golden-Prompts-Framework.md).
+This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. The twist for data work is that the "Think" step is **analysis first** — Claude reads your actual file and surfaces the real problems before anyone decides on rules. It's how you get a cleaner built for your data, not a generic script that mangles it. Full breakdown: [Foundational Course — The Golden Prompts Framework](../../Claude-Code-For-GTM-Engineers-Foundational-Course/07-golden-prompts-framework.md).
 
 Every project in this repo follows the same pattern. Copying any of them is missing the entire point.
 

@@ -1,12 +1,15 @@
+**[🏠 Course Home](./README.md)**  ·  Module 4 — Project Setup & Memory  ·  Lesson 9 of 27
+
+---
+
 # Project Hierarchies & CLAUDE.md
 
 ## How to organize multi-part projects without burning your context window
 
-[https://supercut.ai/share/claude-code-gtm/AD0SXeJaGJTvVgxwpW9YIc](https://supercut.ai/share/claude-code-gtm/AD0SXeJaGJTvVgxwpW9YIc)
-
----
-
-> ⚠️ Watch the video above, then read this document, and finally watch the project organization example video **AT THE END** to be able to master project hierarchies using CLAUDE.md.
+> ## 📺 Video Lesson (Part 1 of 2)
+> **▶️ [Watch the Supercut walkthrough](https://supercut.ai/share/claude-code-gtm/AD0SXeJaGJTvVgxwpW9YIc)**
+>
+> ⚠️ **This lesson has two videos.** Watch this one first, then read the document below, and finally watch the **[project-organization example video](#-video-lesson-part-2-of-2--claudemd-visual-hierarchy)** at the end to master project hierarchies using CLAUDE.md.
 
 ## Why this guide exists
 
@@ -245,7 +248,10 @@ Now watch what happens:
 
 Here is a walkthrough of a demo GTM agency & how the files are organized with maximum efficiency.
 
-[https://supercut.ai/share/claude-code-gtm/LAtVRDxmAqwjw6KMw3Hmtd](https://supercut.ai/share/claude-code-gtm/LAtVRDxmAqwjw6KMw3Hmtd)
+> ## 📺 Video Lesson (Part 2 of 2) — CLAUDE.md visual hierarchy
+> **▶️ [Watch the project-organization example](https://supercut.ai/share/claude-code-gtm/LAtVRDxmAqwjw6KMw3Hmtd)**
+>
+> Watch this **after** reading the document above to see the file hierarchy in action.
 
 ---
 
@@ -272,3 +278,9 @@ Then either (a) create a parent folder anyway and treat them as workstreams, or 
 
 > CLAUDE.md is a map. Content lives in separate files. Put shared content at the root and reference it from subfolders with `../` — update once, flows everywhere.
 >
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [CLAUDE.md Files](./08-claude-md-files.md) | [All Lessons](./README.md) | [Context Management & Context Rot](./10-context-management.md) |

@@ -8,8 +8,7 @@ This repo is the public companion to a multi-month build series. 38 projects acr
 
 ## What's here
 
-- **[`Foundations/`](./Foundations/)** — Start here. Install, smoke test, and the Golden Prompts Framework. Linear sequence — do them in order.
-- **[`Resources/`](./Resources/)** — Reference docs on CLAUDE.md, context management, skills, agents, MCPs/APIs/CLIs, security, and GitHub. Lookups, not a curriculum. The [TOC](./Resources/README.md) groups everything by topic.
+- **[`Claude-Code-For-GTM-Engineers-Foundational-Course/`](./Claude-Code-For-GTM-Engineers-Foundational-Course/)** — Start here. The self-guided foundational course: 27 lessons across 9 modules — install, smoke test, the Golden Prompts Framework, memory, skills, agents, MCPs/APIs/CLIs, security, and GitHub. Linear path with video walkthroughs and Next/Previous navigation. The first four modules are a curriculum; the rest double as look-it-up references.
 - **[`ROADMAP.md`](./ROADMAP.md)** — The list and the roadmap, in one. All projects with status checkboxes. ⬜ → 🟡 → ✅ as builds ship.
 - **[`projects/`](./projects/)** — One folder per build. Each contains a `README.md` with the exact prompt to give Claude Code so you can build **your own version** — plus my reference implementation for show. Populated as each project ships live.
 
@@ -17,7 +16,7 @@ This repo is the public companion to a multi-month build series. 38 projects acr
 
 ## New to Claude Code?
 
-Start with **[Foundations](./Foundations/)** — install Claude Code, run a 2-minute smoke test, and learn the Golden Prompts Framework. Roughly 30 minutes end-to-end. Once those land, you're ready to follow any build in the roadmap.
+Start with the **[Foundational Course](./Claude-Code-For-GTM-Engineers-Foundational-Course/)** — install Claude Code, run a 2-minute smoke test, and learn the Golden Prompts Framework. The setup modules take roughly 30 minutes; the full course is ~2–3 hours. Once the foundations land, you're ready to follow any build in the roadmap.
 
 ---
 
@@ -25,7 +24,7 @@ Start with **[Foundations](./Foundations/)** — install Claude Code, run a 2-mi
 
 > **Don't copy the code.** Copying my output teaches you nothing. The point is the *method*, not the artifact.
 
-Every project folder has a `README.md` with a copy-pasteable prompt. Paste it into Claude Code, answer the 5 questions it asks you, approve the plan, and build *your* version — same project, your spec. The prompts run on the **Golden Prompts Framework**: **Think → Ask → Plan → Build**. ([Read the full framework →](./Foundations/03-Golden-Prompts-Framework.md))
+Every project folder has a `README.md` with a copy-pasteable prompt. Paste it into Claude Code, answer the 5 questions it asks you, approve the plan, and build *your* version — same project, your spec. The prompts run on the **Golden Prompts Framework**: **Think → Ask → Plan → Build**. ([Read the full framework →](./Claude-Code-For-GTM-Engineers-Foundational-Course/07-golden-prompts-framework.md))
 
 Here's the loop:
 

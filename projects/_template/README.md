@@ -32,7 +32,7 @@ The point of GTM Goldmine is not the code. **The point is the method.** Build th
 
 **Time:** ~[time estimate]
 **Prereqs:**
-- Claude Code installed → see [`Foundations/01-Setup`](../../Foundations/01-Setup/)
+- Claude Code installed → see [Foundational Course — Install Claude Code](../../Claude-Code-For-GTM-Engineers-Foundational-Course/04-install-claude-code.md)
 - [Project-specific input #1 — e.g., "A CSV of leads you want to enrich", "Your LinkedIn profile as a PDF", "An API key for X"]
 - [Project-specific input #2 — optional / delete if not needed]
 
@@ -90,7 +90,7 @@ Exit plan mode, approve, watch it go. Iterate on the result in the same session.
 
 ## Why this works
 
-This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. It's how you get Claude Code to build what you actually want, not what it assumes you want. Full breakdown: [`Foundations/03-Golden-Prompts-Framework.md`](../../Foundations/03-Golden-Prompts-Framework.md).
+This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. It's how you get Claude Code to build what you actually want, not what it assumes you want. Full breakdown: [Foundational Course — The Golden Prompts Framework](../../Claude-Code-For-GTM-Engineers-Foundational-Course/07-golden-prompts-framework.md).
 
 Every project in this repo follows the same pattern. Copying any of them is missing the entire point.
 

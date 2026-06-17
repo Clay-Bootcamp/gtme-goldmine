@@ -18,7 +18,7 @@ That's it. That's the whole repo.
 
 **Time:** ~60 minutes.
 **Prereqs:**
-- Claude Code installed → see [`Foundations/01-Setup`](../../Foundations/01-Setup/)
+- Claude Code installed → see [Foundational Course — Install Claude Code](../../Claude-Code-For-GTM-Engineers-Foundational-Course/04-install-claude-code.md)
 - Your LinkedIn profile as a PDF (open your profile → ⋯ More → Save to PDF)
 - A reference site you actually like (optional but huge)
 
@@ -81,7 +81,7 @@ Exit plan mode, approve, watch it go. Iterate on copy, colors, layout in the sam
 
 ## Why this works
 
-The four-step ritual above is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. It's how you get Claude Code to build what you actually want, not what it assumes you want. Full breakdown: [`Foundations/03-Golden-Prompts-Framework.md`](../../Foundations/03-Golden-Prompts-Framework.md).
+The four-step ritual above is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. It's how you get Claude Code to build what you actually want, not what it assumes you want. Full breakdown: [Foundational Course — The Golden Prompts Framework](../../Claude-Code-For-GTM-Engineers-Foundational-Course/07-golden-prompts-framework.md).
 
 Every project in this repo follows the same pattern. Copying any of them is missing the entire point.
 
