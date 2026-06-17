@@ -6,6 +6,11 @@
 
 The 4-step framework for getting Claude Code to build what you actually want — not what it assumes you want.
 
+> ## 📺 Video Lesson
+> **▶️ [Watch the Supercut walkthrough](https://supercut.ai/share/claude-code-gtm/mZqyH_ViDo8p_3EEOy3xT1?embed=full)**
+>
+> This lesson has a video. Watch it first, then follow the steps below.
+
 ## What it is
 
 Four prompts (and one mode) that run *before* you say "build it." This is the difference between power users who ship and hobbyists who quit after Claude goes off the rails on a 45-minute build.
