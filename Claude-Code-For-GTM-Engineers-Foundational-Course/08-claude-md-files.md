@@ -1,6 +1,13 @@
+**[🏠 Course Home](./README.md)**  ·  Module 4 — Project Setup & Memory  ·  Lesson 8 of 27
+
+---
+
 # CLAUDE.md files and how to use them
 
-[https://supercut.ai/share/claude-code-gtm/BIYYbpJ1zCKzpxIZZFC8ER](https://supercut.ai/share/claude-code-gtm/BIYYbpJ1zCKzpxIZZFC8ER)
+> ## 📺 Video Lesson
+> **▶️ [Watch the Supercut walkthrough](https://supercut.ai/share/claude-code-gtm/BIYYbpJ1zCKzpxIZZFC8ER)**
+>
+> This lesson has a video. Watch it first, then use the notes below as your reference.
 
 # CLAUDE.md
 
@@ -174,3 +181,9 @@ Your "Hard rules" section grows organically from real mistakes, not from you try
 | `@filename.md` | Import another markdown into context |
 
 **Rule of thumb:** If it needs to be true *every session*, it goes in CLAUDE.md (or something `@imported` from it). If it changes often, it goes in a linked file.
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [The Golden Prompts Framework](./07-golden-prompts-framework.md) | [All Lessons](./README.md) | [Project Hierarchies & CLAUDE.md](./09-project-hierarchies.md) |

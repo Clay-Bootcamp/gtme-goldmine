@@ -22,7 +22,7 @@ The thing that makes this build good is **not** the Python — it's the `lead_sc
 
 **Time:** ~45–60 minutes.
 **Prereqs:**
-- Claude Code installed → see [`Foundations/01-Setup`](../../Foundations/01-Setup/)
+- Claude Code installed → see [Foundational Course — Install Claude Code](../../Claude-Code-For-GTM-Engineers-Foundational-Course/04-install-claude-code.md)
 - A real CSV of leads you want to prioritize (inbound demo requests, a webinar list, an event scan, a cold list) — with firmographic and/or tech-stack columns to score against
 - A clear, written-down ICP — who's a great fit, who's a hard no, and *why*. If you don't have one, writing it is half this project.
 - Python 3 (Claude will set this up if you don't have it)
@@ -97,7 +97,7 @@ Exit plan mode, approve, watch it run. Then **read the ranked output** top-to-bo
 
 ## Why this works
 
-This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. The twist for scoring work is that the artifact you approve before any code is a **written rubric**, not a plan for code — Claude drafts the point model, you argue with it, and only once it matches your judgment does it become a deterministic script. That's how you get a scorer you'd actually stake a quota on, instead of a black box that spits out numbers. Full breakdown: [`Foundations/03-Golden-Prompts-Framework.md`](../../Foundations/03-Golden-Prompts-Framework.md).
+This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. The twist for scoring work is that the artifact you approve before any code is a **written rubric**, not a plan for code — Claude drafts the point model, you argue with it, and only once it matches your judgment does it become a deterministic script. That's how you get a scorer you'd actually stake a quota on, instead of a black box that spits out numbers. Full breakdown: [Foundational Course — The Golden Prompts Framework](../../Claude-Code-For-GTM-Engineers-Foundational-Course/07-golden-prompts-framework.md).
 
 Every project in this repo follows the same pattern. Copying any of them is missing the entire point.
 

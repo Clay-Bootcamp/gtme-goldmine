@@ -1,6 +1,13 @@
+**[🏠 Course Home](./README.md)**  ·  Module 2 — Setup & Installation  ·  Lesson 6 of 27
+
+---
+
 # Your First Claude Code Project (Smoke Test)
 
-[https://supercut.ai/share/claude-code-gtm/3Q6pF1sZY4-VAttCgP82_O](https://supercut.ai/share/claude-code-gtm/3Q6pF1sZY4-VAttCgP82_O)
+> ## 📺 Video Lesson
+> **▶️ [Watch the Supercut walkthrough](https://supercut.ai/share/claude-code-gtm/3Q6pF1sZY4-VAttCgP82_O)**
+>
+> This lesson has a video. Watch it first, then follow the steps below.
 
 ## What this is
 
@@ -10,9 +17,9 @@ This is a smoke test — a quick check to make sure Claude Code is installed cor
 
 ## Before you start
 
-Make sure you've completed the [setup pre-work](./01-Setup/):
+Make sure you've completed the setup pre-work from the earlier lessons in this module:
 
-- ✓ Claude Code is installed
+- ✓ Claude Code is installed → [Lesson 4](./04-install-claude-code.md)
 - ✓ You're logged into your Anthropic account
 - ✓ You can launch Claude Code from your terminal
 
@@ -80,3 +87,9 @@ Common fixes:
 - **Authentication issues** → Run `claude` again and follow the login prompts
 
 If you're still stuck, paste the exact error into [claude.ai](https://claude.ai) and ask it to help you troubleshoot — it knows Claude Code's install flow better than any FAQ can document.
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Set Up Speech-to-Text](./05-setup-speech-to-text.md) | [All Lessons](./README.md) | [The Golden Prompts Framework](./07-golden-prompts-framework.md) |

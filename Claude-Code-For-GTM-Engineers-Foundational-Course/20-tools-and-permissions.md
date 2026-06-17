@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 7 — Security & Permissions  ·  Lesson 20 of 27
+
+---
+
 # Tools & Permissions
 
 ## What it is (plain English)
@@ -27,7 +31,7 @@ Seven core tools cover ~95% of what Claude does. You never type these — Claude
 
 Read-only tools are auto-approved. Anything that changes files or hits the internet prompts you. That's the default safety posture.
 
-> Subagents (`Task`) and skills run through this same tool layer — see `agents-and-subagents.md` and `skills-and-slash-commands.md`.
+> Subagents (`Task`) and skills run through this same tool layer — see [Agents & Subagents](./13-agents-and-subagents.md) and [Skills & Slash Commands](./11-skills-and-slash-commands.md).
 >
 
 ## Permission modes (this is the important part)
@@ -81,3 +85,9 @@ Two clicks and you're in flow. That's default mode working as designed.
 ## Rule of thumb
 
 **Stay in default. Shift+Tab to acceptEdits when prompts are breaking flow on a project you trust. Use plan mode for anything big. Never use `--dangerously-skip-permissions` outside a sandbox — there's no undo.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [MCP vs API vs CLI](./19-mcp-vs-api-vs-cli.md) | [All Lessons](./README.md) | [Security & Privacy Primer](./21-security-and-privacy.md) |

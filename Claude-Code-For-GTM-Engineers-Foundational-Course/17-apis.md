@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 6 — Connecting to External Systems  ·  Lesson 17 of 27
+
+---
+
 # APIs
 
 ## What it is
@@ -74,3 +78,9 @@ Claude writes the code, sets up the schedule, ships it.
 ## Rule of thumb
 
 **If there's no MCP, there's almost always an API. Paste the docs URL, give Claude your key, tell it what you want. Claude writes the code — you run it.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [MCPs (Model Context Protocol)](./16-mcps.md) | [All Lessons](./README.md) | [CLIs (Command-Line Interfaces)](./18-clis.md) |

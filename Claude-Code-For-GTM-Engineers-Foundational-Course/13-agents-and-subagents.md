@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 5 — Workflow Building Blocks  ·  Lesson 13 of 27
+
+---
+
 # Agents and Subagents
 
 ## What it is (plain English)
@@ -10,7 +14,7 @@ The main agent stays the manager. Subagents do the grunt work and report back.
 
 ## Why it matters for GTM engineers
 
-Context is your most valuable resource. The **150K rule** (from `context-management.md`) says models degrade after ~150K tokens, regardless of window size. A deep prospect research session — 20 company sites, 20 news pulls, 20 LinkedIn profiles — blows through that fast. By the time you're composing outreach, your main agent is drowning in raw HTML.
+Context is your most valuable resource. The **150K rule** (from [Context Management](./10-context-management.md)) says models degrade after ~150K tokens, regardless of window size. A deep prospect research session — 20 company sites, 20 news pulls, 20 LinkedIn profiles — blows through that fast. By the time you're composing outreach, your main agent is drowning in raw HTML.
 
 Subagents are the fix. The subagent absorbs the noise in its own context, summarizes, and **only the summary returns**. Your main agent stays sharp.
 
@@ -54,7 +58,7 @@ Run **`/agents`** inside a session. Fill in:
 - **Description** — when to delegate (this is the routing signal — be specific)
 - **System prompt** — how it behaves
 - **Tools** — which built-in tools + MCPs it's allowed to touch
-- **Model** — which Claude model it runs (see `model-selection.md` — this matters for cost)
+- **Model** — which Claude model it runs (see [Model Selection](./14-model-selection.md) — this matters for cost)
 
 Saved as markdown files with YAML frontmatter. Project-level: `.claude/agents/`. User-level (all projects): `~/.claude/agents/`. You don't have to touch the files — `/agents` handles it.
 
@@ -105,3 +109,9 @@ Skills run inside the main context. Subagents spin off into their own.
 ## Rule of thumb
 
 **The main agent is the manager. Subagents are the employees. Delegate anything noisy, context-heavy, or parallelizable — prospect research, CSV enrichment, multi-source lookups. Keep the main agent on decisions, synthesis, and final output. If your context is bloating before you've done the actual work, you needed a subagent three steps ago.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Recommended Skills](./12-recommended-skills.md) | [All Lessons](./README.md) | [Model Selection](./14-model-selection.md) |

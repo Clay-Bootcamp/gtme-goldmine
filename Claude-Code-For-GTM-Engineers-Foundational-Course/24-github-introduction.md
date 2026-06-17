@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 9 — GitHub & Deployment  ·  Lesson 24 of 27
+
+---
+
 # Introduction to GitHub
 
 ## The Mental Model
@@ -10,7 +14,7 @@ The one thing that makes it different: GitHub tracks every change you make, so y
 
 ---
 
-![GitHub repo anatomy](../assets/github-repo-anatomy.png)
+![GitHub repo anatomy](./assets/github-repo-anatomy.png)
 
 ## Anatomy of a Repo
 
@@ -53,3 +57,9 @@ Don't memorize commands. Don't Google syntax. Just tell Claude what you want:
 - *"Create a new branch so I can test this without breaking anything."*
 
 Claude runs the operation. You stay focused on building.
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Systems Design GTM Agent](./23-systems-design-gtm-agent.md) | [All Lessons](./README.md) | [Link GitHub to Claude Code](./25-link-github-to-claude-code.md) |

@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 6 — Connecting to External Systems  ·  Lesson 18 of 27
+
+---
+
 # CLIs (Command-Line Interfaces)
 
 ## What it is
@@ -87,3 +91,9 @@ Don't install all four at once. Install when you need them.
 ## Rule of thumb
 
 **If the tool has a CLI and you've installed it, Claude can already use it. No MCP, no API plumbing — just ask for what you want.**
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [APIs](./17-apis.md) | [All Lessons](./README.md) | [MCP vs API vs CLI](./19-mcp-vs-api-vs-cli.md) |

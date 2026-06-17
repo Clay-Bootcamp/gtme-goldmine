@@ -27,7 +27,7 @@ That's why the run produced **4 emails and 6 skips** out of 10 stores — and wh
 
 **Time:** ~45–60 minutes.
 **Prereqs:**
-- Claude Code installed → see [`Foundations/01-Setup`](../../Foundations/01-Setup/)
+- Claude Code installed → see [Foundational Course — Install Claude Code](../../Claude-Code-For-GTM-Engineers-Foundational-Course/04-install-claude-code.md)
 - **Your** highest-performing email template (subject + body) — the one you already know converts. Know which parts are the fixed skeleton and which one specific fact makes the angle land.
 - A CSV (or just a list) of real sites/domains you want to scale that template across.
 - A clear answer to "what fact has to be true on the site for this email to be honest?" — that's the gap Claude will hunt for and refuse to fake.
@@ -100,7 +100,7 @@ Exit plan mode, approve, watch it crawl. Then **read the `justification` column 
 
 ## Why this works
 
-This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. The twist for personalization work is that the contract you approve before any crawling is a **verify-or-skip rule**, not just a plan for code — Claude commits to citing a real source for every claim and skipping anything it can't confirm, *before* it touches a single site. That's how you get a list you'd stake your sender reputation on, instead of mail-merge dressed up as research. Full breakdown: [`Foundations/03-Golden-Prompts-Framework.md`](../../Foundations/03-Golden-Prompts-Framework.md).
+This is the **Golden Prompts Framework**: *Think → Ask → Plan → Build*. The twist for personalization work is that the contract you approve before any crawling is a **verify-or-skip rule**, not just a plan for code — Claude commits to citing a real source for every claim and skipping anything it can't confirm, *before* it touches a single site. That's how you get a list you'd stake your sender reputation on, instead of mail-merge dressed up as research. Full breakdown: [Foundational Course — The Golden Prompts Framework](../../Claude-Code-For-GTM-Engineers-Foundational-Course/07-golden-prompts-framework.md).
 
 Every project in this repo follows the same pattern. Copying any of them is missing the entire point.
 

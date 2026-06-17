@@ -1,10 +1,14 @@
+**[🏠 Course Home](./README.md)**  ·  Module 5 — Workflow Building Blocks  ·  Lesson 12 of 27
+
+---
+
 # Recommended Skills
 
 ## What it is
 
 A short list of skills worth installing today — plus the habit that matters more than any skill: **learning to write your own.**
 
-Skills are custom slash commands (same thing — covered in the Skills & Slash Commands doc). You install them, then invoke with `/skill-name` or let Claude call them automatically.
+Skills are custom slash commands (same thing — covered in the [Skills & Slash Commands](./11-skills-and-slash-commands.md) lesson). You install them, then invoke with `/skill-name` or let Claude call them automatically.
 
 ## Why it matters for GTM engineers
 
@@ -47,7 +51,7 @@ Third-party skills handle generic tasks. **Your 10x leverage is encoding YOUR fr
 
 Rule: **if you do something 3+ times, write the skill.**
 
-See `skills-and-slash-commands.md` for how. It's a markdown file. You can do this.
+See [Skills & Slash Commands](./11-skills-and-slash-commands.md) for how. It's a markdown file. You can do this.
 
 ---
 
@@ -72,3 +76,9 @@ See `skills-and-slash-commands.md` for how. It's a markdown file. You can do thi
 ## Rule of thumb
 
 Install 2–3 trusted skills. Write your own for anything you do 3+ times. Everything else is noise.
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Skills & Slash Commands](./11-skills-and-slash-commands.md) | [All Lessons](./README.md) | [Agents & Subagents](./13-agents-and-subagents.md) |

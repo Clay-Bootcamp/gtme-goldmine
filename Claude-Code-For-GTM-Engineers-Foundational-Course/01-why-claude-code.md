@@ -1,6 +1,13 @@
+**[🏠 Course Home](./README.md)**  ·  Module 1 — Welcome & Why  ·  Lesson 1 of 27
+
+---
+
 # Why Claude Code?
 
-[https://supercut.ai/share/claude-code-gtm/epZH4LQonDrrxQRH5Rqd6i](https://supercut.ai/share/claude-code-gtm/epZH4LQonDrrxQRH5Rqd6i)
+> ## 📺 Video Lesson
+> **▶️ [Watch the Supercut walkthrough](https://supercut.ai/share/claude-code-gtm/epZH4LQonDrrxQRH5Rqd6i)**
+>
+> This lesson has a video. Watch it first, then use the notes below as your reference.
 
 Claude Code lets you go from idea to working code using natural language. No coding required. It's like having a senior developer who works for you.
 
@@ -15,3 +22,9 @@ Claude Code lets you go from idea to working code using natural language. No cod
 - Bring a beginner's mindset
 - Don't fear failure. Nothing you build needs to touch live systems while you're learning
 - Come as a blank slate with the intention to learn
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Course Home](./README.md) | [All Lessons](./README.md) | [Claude Code's Capabilities](./02-claude-code-capabilities.md) |

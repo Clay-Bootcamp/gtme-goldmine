@@ -10,7 +10,7 @@ Tiers reflect skill level needed to build, not value delivered.
 - 🟡 **Intermediate** — APIs, MCPs, scheduled jobs, multi-step workflows.
 - 🔴 **Advanced** — multi-agent systems, autonomous loops, servers, production infra.
 
-> **New to Claude Code?** Start with [Foundations](./Foundations/) — install, terminal basics, your first project, and the prompting framework, with video walkthroughs.
+> **New to Claude Code?** Start with the [Foundational Course](./Claude-Code-For-GTM-Engineers-Foundational-Course/) — install, terminal basics, your first project, and the prompting framework, with video walkthroughs.
 
 ---
 

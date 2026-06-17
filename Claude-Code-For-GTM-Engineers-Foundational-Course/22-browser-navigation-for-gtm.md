@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 8 — Practical Use Cases  ·  Lesson 22 of 27
+
+---
+
 # Browser Navigation Use Cases for GTM
 
 ## **What Claude Code Can Do That Claygent & Scrapers Can't**
@@ -124,3 +128,9 @@ The same "navigate a website and do tedious clicking" skill applies to all the b
 
 - Navigate a retailer's return portal → initiate returns for multiple items → print labels
 - File warranty claims by navigating the manufacturer's support site and filling out their forms
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Security & Privacy Primer](./21-security-and-privacy.md) | [All Lessons](./README.md) | [Systems Design GTM Agent](./23-systems-design-gtm-agent.md) |

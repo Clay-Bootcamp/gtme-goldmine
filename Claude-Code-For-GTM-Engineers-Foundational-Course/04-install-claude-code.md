@@ -1,3 +1,7 @@
+**[🏠 Course Home](./README.md)**  ·  Module 2 — Setup & Installation  ·  Lesson 4 of 27
+
+---
+
 # Install Claude Code
 
 ## Why You Need This
@@ -80,3 +84,9 @@ Type "hello" and press Enter. If Claude responds, you're all set.
 
 - Run `claude doctor` to diagnose issues
 - Or paste your error into [claude.ai](http://claude.ai/) and ask for help
+
+---
+
+| ◀ Previous | 🏠 | Next ▶ |
+|:--|:-:|--:|
+| [Install Node.js](./03-install-nodejs.md) | [All Lessons](./README.md) | [Set Up Speech-to-Text](./05-setup-speech-to-text.md) |
